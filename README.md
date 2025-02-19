@@ -2,7 +2,7 @@
 ## 1. Cloning project
 
 ```bash
-https://gitlab.com/azura-labs/internship/choolifah-intern-batch2-2024.git
+https://github.com/AzisWh/Choolifah-Intern-Course.git
 ```
 
 ## 2. Enter project
@@ -58,6 +58,9 @@ NVM use 20.10.0
 # Tech Stack Frontend
 - React js
 - Tailwind CSS
+
+# Tech Stack Backend
+- Express js
 
 
 
